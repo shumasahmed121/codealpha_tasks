@@ -1,2 +1,16 @@
 # codealpha_tasks
-Java project for CodeAlpha Internship
+# Student Grade Tracker
+
+A Java-based project developed during CodeAlpha Internship.
+
+## Features
+- Add Students
+- Display Reports
+- Calculate Average
+- Highest & Lowest Marks
+
+## Concepts Used
+- OOP
+- ArrayList
+- Loops
+- Constructors
