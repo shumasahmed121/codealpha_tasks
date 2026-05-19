@@ -14,3 +14,22 @@ A Java-based project developed during CodeAlpha Internship.
 - ArrayList
 - Loops
 - Constructors
+
+
+# Library Management System
+
+This project is developed in Java using OOP concepts and ArrayList.
+
+Features:
+- Add Books
+- Display Books
+- Menu-driven system
+- Dynamic storage using ArrayList
+
+Concepts Used:
+- Classes & Objects
+- Constructors
+- Loops
+- Conditions
+- ArrayList
+- Scanner
